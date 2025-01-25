@@ -24,12 +24,10 @@ permalinks:
   post: '/:year/:month/:slug/'
   pages: '/:slug/'
   page: '/:slug/'
-Author:
-  name: Mackenzie McFate
 params:
   Author:
     name: Mark McFate
-  bannerImage: /images/Banner-with-HH-logo.png
+  bannerImage: /images/New-Banner-2025.PNG
   description: Copyright © 2023. All Rights Reserved. Original design by Mark A. McFate
   images:
     - logo.jpg
