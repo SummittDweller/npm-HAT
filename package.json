@@ -9,7 +9,7 @@
     "do:build": "hugo -d public && npx pagefind --site public",
     "azure:build": "hugo -d public --baseURL=\"https://polite-hill-0d319750f.4.azurestaticapps.net\" && npx pagefind --site public",
     "clean": "npm run hugo:clean",
-    "serve": "npm run hugo:build && npx pagefind --site public --output-subdir ../static/_pagefind && npm run hugo:serve",
+    "serve": "npm run hugo:build && npx pagefind --site public --output-subdir ../static/pagefind && npm run hugo:serve",
     "hugo:build": "hugo -d public",
     "hugo:serve": "hugo server",
     "hugo:clean": "rm -rf build resources public"
