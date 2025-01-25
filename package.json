@@ -1,13 +1,13 @@
 {
   "name": "npm-HAT",
   "version": "1.0.0",
-  "description": "My personal (SummittDweller) blog built with Hugo inside an NPM package.  December 2024.",
+  "description": "Old Tama-Toledo Community Visioning with npm/Pagefind added and rebranded as HAT... Hometown Action Team. January 2025.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npm run hugo:build && npx pagefind --site public",
     "do:build": "hugo -d public && npx pagefind --site public",
-    "azure:build": "hugo -d public --baseURL=\"https://azure-static-web-apps-ashy-rock-0f18efc0f\" && npx pagefind --site public",
+    "azure:build": "hugo -d public --baseURL=\"https://polite-hill-0d319750f.4.azurestaticapps.net\" && npx pagefind --site public",
     "clean": "npm run hugo:clean",
     "serve": "npm run hugo:build && npx pagefind --site public --output-subdir ../static/_pagefind && npm run hugo:serve",
     "hugo:build": "hugo -d public",
