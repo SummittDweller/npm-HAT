@@ -10,6 +10,6 @@ draft: false
 author: Karen Mixdorf
 ---
 
-![Project Map - January 2025](images/MAP.png)  
+![Project Map - January 2025](images/Map.png)  
 
 This project map shows roughly where related sidewalk/trail routes currently exist and where proposed additions will fill the gaps.
