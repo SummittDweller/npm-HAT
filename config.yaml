@@ -27,7 +27,7 @@ permalinks:
 params:
   Author:
     name: Mark McFate
-  bannerImage: /images/New-Banner-2025.PNG
+  bannerImage: /images/New-Banner-2025-with-Logo.PNG
   description: Copyright © 2023. All Rights Reserved. Original design by Mark A. McFate
   images:
     - logo.jpg
