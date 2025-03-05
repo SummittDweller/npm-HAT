@@ -27,8 +27,8 @@ permalinks:
 params:
   Author:
     name: Mark McFate
-  bannerImage: /images/New-Banner-2025-with-Logo.PNG
-  description: Copyright © 2023. All Rights Reserved. Original design by Mark A. McFate
+  bannerImage: /images/HAT-Site-Banner-with-Crossing-Image.png
+  description: Copyright © 2025. All Rights Reserved. Original design by Mark A. McFate
   images:
     - logo.jpg
     - banner1.png
@@ -65,9 +65,14 @@ menu:
       url: /education/
       weight: 27
       pre: <i class='fas fa-school'></i>
-    - identifier: go
-      name: GO!
-      url: /go/
+    # - identifier: go
+    #   name: GO!
+    #   url: /go/
+    #   weight: 29
+    #   pre: <i class='fas fa-shoe-prints'></i>
+    - identifier: moove
+      name: Let's Moove!
+      url: /moove/
       weight: 29
       pre: <i class='fas fa-shoe-prints'></i>
   footer:
