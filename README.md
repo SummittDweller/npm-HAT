@@ -19,6 +19,10 @@ A host of graphics and other resources can be found at [Iowa Healthiest State](h
 
 Approved graphics, courtesy of [Iowa Healthiest State](http://www.iowahealthieststate.com), can be found in the `socialmedia.zip` file stored at https://tamatoledocv.blob.core.windows.net/cv-resources/socialmedia.zip.  Do NOT store that file in this repo!  See [Fixing a Broken Repo](http://blog.SummittDweller.com/posts/2023/01/fixing-a-broken-repo/) for details.  
 
+### Karen's Grahpics
+
+Check https://www.icloud.com/iclouddrive/0b1wk5yfCDNd4K9cnn0rDwlRA#Website_photos for the latest web elements from Karen.  
+
 ## Next Meeting Agenda
 
 There is now a Google Doc at https://docs.google.com/document/d/1qrUjqsgFGZ7-eBTHN-Cu0oJJ_dVOFlZuKC5l-zMcTLw/edit, published via...
