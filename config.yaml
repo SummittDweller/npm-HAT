@@ -38,6 +38,7 @@ params:
   hideReadingTime: true
   social:
     email: cv@summittservices.com
+    facebook: tamatoledohometownactionteam
 menu:
   main:
     - identifier: about
