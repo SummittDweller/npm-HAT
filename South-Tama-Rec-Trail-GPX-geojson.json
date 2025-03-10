@@ -85,8 +85,8 @@
         ]
       },
       "properties": {
-        "stroke": "#f0f0f0",
-        "stroke-width": 20
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -112,6 +112,10 @@
             41.959200732
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -185,6 +189,10 @@
             41.959184589
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -222,6 +230,10 @@
             41.963600244
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -383,6 +395,10 @@
             41.963400369
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -432,6 +448,10 @@
             41.97338776
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -461,6 +481,10 @@
             41.973330653
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -546,6 +570,10 @@
             41.97842032
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -567,6 +595,10 @@
             41.982637176
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -840,6 +872,10 @@
             41.992777988
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -861,6 +897,10 @@
             41.982899044
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -14984,6 +15024,10 @@
             250.261
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -15126,6 +15170,10 @@
             41.955262612
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -15151,6 +15199,10 @@
             41.959200732
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -15226,10 +15278,9 @@
         ]
       },
       "properties": {
-        "stroke": "#FFA500",
+        "stroke": "#ffa500",
         "stroke-width": 7
       }
-
     },
     {
       "type": "Feature",
@@ -15268,7 +15319,7 @@
         ]
       },
       "properties": {
-        "stroke": "#FFA500",
+        "stroke": "#ffa500",
         "stroke-width": 7
       }
     },
@@ -15431,6 +15482,10 @@
             41.963400369
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -15480,6 +15535,10 @@
             41.97338776
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -15509,6 +15568,10 @@
             41.973330653
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -15594,6 +15657,10 @@
             41.97842032
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -15615,6 +15682,10 @@
             41.982637176
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -15888,6 +15959,10 @@
             41.992777988
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -15909,6 +15984,10 @@
             41.982899044
           ]
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
@@ -30034,7 +30113,7 @@
         ]
       },
       "properties": {
-        "stroke": "#FFA500",
+        "stroke": "#ffa500",
         "stroke-width": 7
       }
     },
@@ -30049,6 +30128,10 @@
           -92.577089533,
           41.955262612
         ]
+      },
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 7
       }
     },
     {
