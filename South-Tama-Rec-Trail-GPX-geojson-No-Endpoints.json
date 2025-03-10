@@ -15033,59 +15033,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Endpoint"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.577089533,
-          41.955262612
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Endpoint"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.581934611,
-          41.97842032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Endpoint",
-        "desc": "--"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.594887901,
-          41.963600244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Endpoint"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.590000984,
-          41.992777988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "_gpxType": "trk",
         "cmt": 898,
         "coordinateProperties": {}
@@ -30115,63 +30062,6 @@
       "properties": {
         "stroke": "#ffa500",
         "stroke-width": 7
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Endpoint"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.577089533,
-          41.955262612
-        ]
-      },
-      "properties": {
-        "stroke": "#ffa500",
-        "stroke-width": 7
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Endpoint"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.581934611,
-          41.97842032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Endpoint",
-        "desc": "--"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.594887901,
-          41.963600244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Endpoint"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.590000984,
-          41.992777988
-        ]
       }
     }
   ]
