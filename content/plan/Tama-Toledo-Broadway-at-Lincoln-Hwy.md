@@ -31,4 +31,4 @@ On March 1, 2022, citizens in the South Tama County Community School District pa
 <sup>2</sup>Note that the designer acknowledges the original estimates are conservative, and assuming relatively strict DOT funding sources.  Actual costs/bids are not expected to come in this high and are unlikely to be exceeded in the near future.  
 
 
-{{< embed-pdf url="../../pdfs/10a_BroadwaySt_LincolnHwy-Binder-with-Segment-E-Estimate.pdf" >}}
+{{< embed-pdf url="/../../pdfs/10a_BroadwaySt_LincolnHwy-Binder-with-Segment-E-Estimate.pdf" >}}

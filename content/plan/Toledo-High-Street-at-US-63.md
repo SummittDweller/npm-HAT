@@ -12,4 +12,4 @@ weight: 1040
 ---
 This plan, **10d**, presents a [Tactical Urbanism](http://tacticalurbanismguide.com/about/) option (page 2) and a more complex/expensive permanent streetscape option (page 3) for safety improvements at the High Street / US 63 intersection in Toledo.
 
-{{< embed-pdf url="../../pdfs/10d_HighSt_US63-Binder.pdf" >}}
+{{< embed-pdf url="/../../pdfs/10d_HighSt_US63-Binder.pdf" >}}

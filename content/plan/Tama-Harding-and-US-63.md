@@ -12,4 +12,4 @@ weight: 930
 ---
 This plan, **9c**, presents a [Tactical Urbanism](http://tacticalurbanismguide.com/about/) option (page 2) and a more complex/expensive permanent streetscape option (page 3) for safety improvements at the Harding Street / US 63 intersection in Tama.
 
-{{< embed-pdf url="../../pdfs/9c_HardingSt_US63-Binder.pdf" >}}
+{{< embed-pdf url="/../../pdfs/9c_HardingSt_US63-Binder.pdf" >}}

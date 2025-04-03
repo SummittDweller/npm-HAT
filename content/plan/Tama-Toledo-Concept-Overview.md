@@ -19,4 +19,4 @@ The remaining pages include:
   - Page 7: Estimated cost details for segments *J*, *K*, *L*, and *M*.
   - Page 8: Estimated cost details for segment *N* (not labeled), the estimated grand total, and notes.
 
-{{< embed-pdf url="../../pdfs/08a-ConceptOverview-Binder2.pdf" >}}
+{{< embed-pdf url="/../../pdfs/08a-ConceptOverview-Binder2.pdf" >}}
