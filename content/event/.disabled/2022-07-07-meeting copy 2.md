@@ -21,7 +21,7 @@ Agenda specifics:
 
   - Wellmark will be present to follow-up on our Walking Audit and other business.  See agenda .pdf below.
  
-{{< embed-pdf url="/../../pdfs/HH Tama-Toledo agenda 7.7.2022.pages.pdf" >}}  
+{{< embed-pdf url="../../pdfs/HH Tama-Toledo agenda 7.7.2022.pages.pdf" >}}  
 
   
  

@@ -18,7 +18,7 @@ Ever been interested in discovering the South Tama Rec Trail and learning more a
 
 Some of our planning material is available below.  Look for additional details as elements of this event are confirmed.
 
-{{< embed-pdf url="/../../pdfs/Golf-Cart-Tour-2022-05-25.pdf" >}} <p/> 
+{{< embed-pdf url="../../pdfs/Golf-Cart-Tour-2022-05-25.pdf" >}} <p/> 
 
    
  

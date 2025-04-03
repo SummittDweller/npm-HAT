@@ -6,4 +6,4 @@ This is information from our 5 p.m., October 6, 2022, regular monthly meeting he
  
 ## Attachments
 
-{{< embed-pdf url="/../../pdfs/10_5_22-TT-Healthy-Hometown-Meeting-Minutes.pdf" >}}
+{{< embed-pdf url="../../pdfs/10_5_22-TT-Healthy-Hometown-Meeting-Minutes.pdf" >}}
