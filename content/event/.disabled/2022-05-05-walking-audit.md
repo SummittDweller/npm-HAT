@@ -18,7 +18,7 @@ For our April "meeting" we had planned a [Walking Audit](https://www.aarp.org/li
 
 **We will have a "regular" monthly meeting on May 5 from 5-7pm in the Wieting. Agenda details will be posted soon.**
 
-{{< embed-pdf url="../../pdfs/Tama-Toledo-Walking-Audit-Flyer.pdf" >}} <p/> 
+{{< embed-pdf url="./../../pdfs/Tama-Toledo-Walking-Audit-Flyer.pdf" >}} <p/> 
 
 The AARP (American Association of Retired Persons) describes a walking audit as:
 

@@ -16,7 +16,7 @@ expiryDate: 2022-09-16
 
 Earlier in the year we had a very successful "Walking Audit" in Toledo.  Now it's Tama's turn.  On September 15 we have planned a [Walking Audit](https://www.aarp.org/livable-communities/getting-around/aarp-walk-audit-tool-kit/) around downtown Tama conducted by an experienced representative from Wellmark's [Healthy Hometown](https://www.wellmark.com/about/community/community-health-improvement/iowa) initiative.  
 
-{{< embed-pdf url="../../pdfs/tama-walking-audit.pdf" >}} <p/> 
+{{< embed-pdf url="./../../pdfs/tama-walking-audit.pdf" >}} <p/> 
 
 The AARP (American Association of Retired Persons) describes a walking audit as:
 
