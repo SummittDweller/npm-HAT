@@ -83,24 +83,24 @@ cp -R ./static/js/pdf-js /path/to/your/hugo/website/static/js/
 
 In your Hugo website place the following shortcode in any of the markdown pages. 
 ```
-{{< embed-pdf url="./path/to/pdf/file/example.pdf" >}}
+<embed width=100% height=1000 src="./path/to/pdf/file/example.pdf"></embed>
 
 ```
 
 To hide pagination
 ```
-{{< embed-pdf url="./path/to/pdf/file/example.pdf" hidePaginator="true" >}}
+<embed width=100% height=1000 src="./path/to/pdf/file/example.pdf" hidePaginator="true" >}}
 ```
 
 
 To render a selected page number
 ```
-{{< embed-pdf url="./path/to/pdf/file/example.pdf" renderPageNum="5" >}}
+<embed width=100% height=1000 src="./path/to/pdf/file/example.pdf" renderPageNum="5" >}}
 ```
 
 To hide loading spinner
 ```
-{{< embed-pdf url="./path/to/pdf/file/example.pdf" hideLoader="true" >}}
+<embed width=100% height=1000 src="./path/to/pdf/file/example.pdf" hideLoader="true" >}}
 ```
 
 ### Parameters

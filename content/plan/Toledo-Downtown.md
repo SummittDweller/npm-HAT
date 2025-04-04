@@ -11,4 +11,4 @@ weight: 1050
 ---
 This plan, **10e**, presents a [Tactical Urbanism](http://tacticalurbanismguide.com/about/) option (page 2) and a more complex/expensive permanent streetscape option (page 3) for renovation of Downtown Toledo.
 
-{{< embed-pdf url="./../../pdfs/10e_DowntownToledo-Binder.pdf" >}}
+<embed width=100% height=1000 src="./../../pdfs/10e_DowntownToledo-Binder.pdf"></embed>

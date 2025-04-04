@@ -12,4 +12,4 @@ weight: 1030
 ---
 This is PLAN _Toledo-2nd-Street-at-US-63.md_.
 
-{{< embed-pdf url="./../../pdfs/10c_2ndSt_US-63-Binder.pdf" >}}
+<embed width=100% height=1000 src="./../../pdfs/10c_2ndSt_US-63-Binder.pdf"></embed>

@@ -11,4 +11,4 @@ weight: 100
 ---
 This is PLAN _Tama-Toledo-Program-Overview.md_.
 
-{{< embed-pdf url="./../../pdfs/01_TamaToledo_ProgramOverview-Binder.pdf" >}}
+<embed width=100% height=1000 src="./../../pdfs/01_TamaToledo_ProgramOverview-Binder.pdf"></embed>

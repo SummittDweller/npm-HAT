@@ -12,4 +12,4 @@ weight: 1
 ---
 This is PAGE _Tama-Toledo-Program-Overview.md_.
 
-{{< embed-pdf url="pdfs/01_TamaToledo_ProgramOverview-Binder.pdf" >}}
+<embed width=100% height=1000 src="pdfs/01_TamaToledo_ProgramOverview-Binder.pdf"></embed>

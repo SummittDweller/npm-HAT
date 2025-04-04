@@ -11,4 +11,4 @@ weight: 1020
 ---
 This plan, **10b**, is an overall pedestrian connection plan for Toledo.
 
-{{< embed-pdf url="./../../pdfs/10b_ConnectionPlan-Binder.pdf" >}}
+<embed width=100% height=1000 src="./../../pdfs/10b_ConnectionPlan-Binder.pdf"></embed>

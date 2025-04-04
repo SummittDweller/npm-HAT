@@ -12,7 +12,7 @@ venues:
   - Toledo
 draft: false
 expiryDate: 2023-06-11
-last_modified_at: 2025-04-04T13:37:32
+last_modified_at: 2025-04-04T15:02:45
 --- 
 
 <center>
@@ -30,4 +30,4 @@ Directions and a list of scavenger hunt items is available to download using the
 </p>
 </center>
 
-{{< embed-pdf url="./../../pdfs/Family-Fun-Day-on-the-Trail.pdf" >}}
+<embed width=100% height=1000 src="./../../pdfs/Family-Fun-Day-on-the-Trail.pdf"></embed>

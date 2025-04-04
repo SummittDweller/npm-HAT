@@ -16,6 +16,6 @@ author: Mark McFate
 
 The following guide may benefit motorists who approach the new crosswalk along Business 30.    
 
-<!-- {{< embed-pdf url="./../../pdfs/RRFB-Tip-Motorists.pdf" >}} -->
+<!-- <embed width=100% height=1000 src="./../../pdfs/RRFB-Tip-Motorists.pdf"></embed> -->
 
 ![RRFB Motorist Tips](/images/RRFB-Tip-Motorists.png)

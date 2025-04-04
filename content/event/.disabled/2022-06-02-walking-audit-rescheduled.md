@@ -16,7 +16,7 @@ expiryDate: 2022-06-03
 
 For our April and May "meetings" we had planned a [Walking Audit](https://www.aarp.org/livable-communities/getting-around/aarp-walk-audit-tool-kit/) conducted by an experienced representative from Wellmark's [Healthy Hometown](https://www.wellmark.com/about/community/community-health-improvement/iowa) initiative.  **Due to weather concerns that event was POSTPONED TWICE and this event is taking it's place.  The rescheduled walking audit is set for Thursday, June 2 at 5 PM.**  **Everyone is invited to attend and walk together!**  
 
-{{< embed-pdf url="./../../pdfs/Tama-Toledo-Walking-Audit-Flyer.pdf" >}} <p/> 
+<embed width=100% height=1000 src="./../../pdfs/Tama-Toledo-Walking-Audit-Flyer.pdf"></embed> <p/> 
 
 The AARP (American Association of Retired Persons) describes a walking audit as:
 
