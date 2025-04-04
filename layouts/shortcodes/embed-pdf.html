@@ -1,6 +1,6 @@
 <!-- Disabled (.dotted) on 26-Apr-2024 in favor of themes/hugo-embed-pdf-shortcode as a submodule -->
 
-<script type="text/javascript" src= './js/pdf-js/build/pdf.js'></script>
+<script type="text/javascript" src= "{{.Site.BaseURL}} + './js/pdf-js/build/pdf.js'"></script>
 <style>
 #the-canvas {
   border: 1px solid black;
@@ -60,8 +60,7 @@
 window.onload = function() {
 // If absolute URL from the remote server is provided, configure the CORS
 // header on that server.
-// var url = "{{.Site.BaseURL}}" + '{{ .Get "url" }}';
-var url = '{{ .Get "url" }}';
+var url = "{{.Site.BaseURL}}" + '{{ .Get "url" }}';
 
 var hidePaginator = "{{ .Get "hidePaginator" }}" === "true";
 var hideLoader = "{{ .Get "hideLoader" }}" === "true";
