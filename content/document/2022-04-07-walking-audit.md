@@ -16,7 +16,7 @@ expiryDate: 2022-04-08
 
 For our April "meeting" we had planned a [Walking Audit](https://www.aarp.org/livable-communities/getting-around/aarp-walk-audit-tool-kit/) conducted by an experienced representative from Wellmark's [Healthy Hometown](https://www.wellmark.com/about/community/community-health-improvement/iowa) initiative.  **Due to weather concerns this event has been POSTPONED to Thursday, May 5 at 5 PM.**  **Everyone is invited to attend and walk together!**  
 
-We will have a **regular meeting** at the **Wieting, 5 PM, April 7**, instead of the Walking Audit and that [meeting agenda is available here](../../pdfs/April-7-2022-Community-Visioning-Agenda.pdf).
+We will have a **regular meeting** at the **Wieting, 5 PM, April 7**, instead of the Walking Audit and that [meeting agenda is available here](./../../pdfs/April-7-2022-Community-Visioning-Agenda.pdf).
 
 The AARP (American Association of Retired Persons) describes a walking audit as:
 
